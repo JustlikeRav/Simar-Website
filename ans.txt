@@ -1,0 +1,243 @@
+c d     (61)
+bc*
+c
+b
+c
+d
+c
+a
+a
+a
+
+d
+b*
+c
+d*
+ac
+d*
+c
+c
+a
+a
+
+ae*
+c
+b
+a*
+b
+d*
+c
+d
+c
+c*
+c
+
+
+a   (91)
+c
+c
+c
+c
+a
+c
+a
+c
+bd*
+
+a* (101)
+a*
+b**
+a
+d
+a*
+b
+a*
+a
+a
+
+b (111)
+a* (what is Federate IAM)
+b*
+a*
+b*
+a
+b*
+a
+b
+ac
+
+a
+a
+c
+b*
+d
+(126) learn this bitch
+d
+b
+a (because 400kb is limit)
+c
+
+
+c (131)
+c
+d
+c
+(135) no fucking clue
+c
+c
+c
+c*
+c
+
+
+cd*(what is  round-robin routing algorithm?) 141
+c
+c*
+b
+d
+b
+c*
+a
+c* (what is Dead Letter Queue?)
+c
+
+
+b (151)
+a
+c
+c
+b
+c (learn more)
+c*
+a
+d
+bd*
+
+b* (161)
+a
+d
+d*
+c
+b*
+c
+c
+c* (learn the differences in all options)
+c
+
+
+c (171)
+b*
+c
+b
+c*
+d* (3x2 for 2 AZ)
+d
+c*
+d****
+c*
+
+d* (181)
+ae
+d
+a
+c
+b*
+c
+d
+c*
+b* (why not c?)
+
+
+d* 191
+a
+c
+c
+a*
+d
+b
+(don't know)*
+c* (why not d)
+(don't know) maybe B
+
+
+
+b*  (201)
+c
+c
+c
+b
+a
+ad
+c
+a
+bc
+
+
+ec (211)
+d
+c (learn more)
+d
+b*
+a* (why not c?)
+b
+b*
+a
+a
+
+
+
+b (221)
+b
+c
+ae*
+a
+ec*
+c
+d
+b
+d*
+
+c (learn more about organisations) (231)
+d
+b
+B
+c
+bac*
+b
+c
+c*
+c
+
+b* (241)
+a
+b
+a*
+d
+b
+d
+c
+d
+d*
+
+
+d (251)
+c
+a
+b
+d
+c
+b
+(IDK LEARN MORE)
+d
+a*
+
+c (261)
+c
+a
+b
+c
+b
+ec
+c
+a
+a
